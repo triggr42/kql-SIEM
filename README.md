@@ -1,4 +1,4 @@
-# Sentinel Hunting and Alerting with Microsoft KQL
+# SIEM Hunting and Alerting with Microsoft KQL
 
 ## Overview
 This repository contains Microsoft Kusto Query Language (KQL) queries for hunting and alerting in Microsoft Azure Sentinel. These queries are designed to help security analysts detect and investigate potential threats within their Azure environment. By leveraging the power of KQL, users can efficiently query and analyze security data to identify suspicious activities and take appropriate action.
